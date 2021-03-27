@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "380674352502",
+    "project_id": "fluttertripsplace",
+    "storage_bucket": "fluttertripsplace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380674352502:android:bb1a2773c91c58e563c657",
+        "android_client_info": {
+          "package_name": "com.arlestabares.fluttertripsplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380674352502-ak7c44tl1t5kjq26uh2ncrgq6mt7ria9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUciSiOViwNXZLPni1IpgCarij535InIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380674352502-ak7c44tl1t5kjq26uh2ncrgq6mt7ria9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
